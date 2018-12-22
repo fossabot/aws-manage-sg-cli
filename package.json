@@ -23,7 +23,7 @@
   "author": "Niall McCullagh",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.373.0",
+    "aws-sdk": "^2.382.0",
     "debug": "^4.1.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
